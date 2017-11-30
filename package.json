@@ -1,6 +1,9 @@
 {
   "name": "bitcore-message-crown",
   "version": "0.0.0",
+  "publishConfig": {
+    "tag": "next"
+  },
   "description": "Crown Messages for Bitcore",
   "author": "Crown Developers <info@crown.tech>",
   "main": "index.js",
