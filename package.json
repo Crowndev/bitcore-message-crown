@@ -32,7 +32,7 @@
     "url": "https://github.com/Crowndev/bitcore-message-crown.git"
   },
   "dependencies": {
-    "bitcore-lib-crown": "0.2.0"
+    "bitcore-lib-crown": "0.2.1"
   },
   "devDependencies": {
     "bitcore-build-crown": "0.1.0",
