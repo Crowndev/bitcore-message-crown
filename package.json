@@ -1,6 +1,6 @@
 {
   "name": "bitcore-message-crown",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "publishConfig": {
     "tag": "next"
   },
@@ -32,7 +32,7 @@
     "url": "https://github.com/Crowndev/bitcore-message-crown.git"
   },
   "dependencies": {
-    "bitcore-lib-crown": "0.2.1"
+    "bitcore-lib-crown": "0.4.0"
   },
   "devDependencies": {
     "bitcore-build-crown": "0.1.0",
