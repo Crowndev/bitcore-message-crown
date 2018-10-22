@@ -11,8 +11,8 @@ var Message = require('../');
 
 describe('Message', function() {
 
-  var address = 'n1ZCYg9YXtB5XCZazLxSmPDa8iwJRZHhGx';
-  var badAddress = 'mmRcrB5fTwgxaFJmVLNtaG8SV454y1E3kC';
+  var address = 'tCRWZ2dNEPftK5QP4JLnAeaBraq6i9yt4mE2T';
+  var badAddress = 'tCRWJu3fjKnpNbHS73XHA51zjVhT3HkPDThbD';
   var privateKey = bitcore.PrivateKey.fromWIF('cPBn5A4ikZvBTQ8D7NnvHZYCAxzDZ5Z2TSGW2LkyPiLxqYaJPBW4');
   var text = 'hello, world';
   var signatureString = 'IENYChRyuvwUNrv4OuMaBPWl/Fo3e/DR9pQyyCHKgFrSeXTmVf11fKokjCDgm3lkwGaJONEGDXCGWKF/gExUhnE=';

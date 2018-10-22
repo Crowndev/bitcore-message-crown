@@ -29,7 +29,7 @@ var signature = Message('hello, world').sign(privateKey);
 To verify a message:
 
 ```javascript
-var address = 'n1ZCYg9YXtB5XCZazLxSmPDa8iwJRZHhGx';
+var address = 'tCRWZ2dNEPftK5QP4JLnAeaBraq6i9yt4mE2T';
 var signature = 'H/DIn8uA1scAuKLlCx+/9LnAcJtwQQ0PmcPrJUq90aboLv3fH5fFvY+vmbfOSFEtGarznYli6ShPr9RXwY9UrIY=';
 var verified = Message('hello, world').verify(address, signature);
 ```
